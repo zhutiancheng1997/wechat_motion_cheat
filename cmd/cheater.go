@@ -8,9 +8,9 @@ import (
 )
 
 var (
-	user     = flag.String("user", "1524495584@qq.com", "")
+	user     = flag.String("user", "2505913895@qq.com", "")
 	password = flag.String("password", "aa2505913895", "")
-	stepCnt  = flag.Int("step", 18888, "")
+	stepCnt  = flag.Int("step", 28888, "")
 )
 
 func main() {
